@@ -28,7 +28,7 @@ Library: D:\HCMUS\NĂM 3 - HK2\Kỹ thuật lập trình nâng cao\Project Unity
 --assembly-defines=Unity.2D.PixelPerfect;
 --assembly-defines=unity-websocket-sharp;
 --assembly-defines=Unity.TextMeshPro;
---assembly-defines=Unity.Services.Core.Analytics;
+--assembly-defines=Unity.Services.Core.Analytics;//cc ne
 --assembly-defines=Unity.Services.Wire.Internal;
 --assembly-defines=Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary;
 --assembly-defines=Unity.Services.Friends;
